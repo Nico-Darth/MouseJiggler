@@ -11,7 +11,7 @@
 ## Installation
 
 ### EXE Version
-For the EXE version, no installation is required. Simply download the EXE file and double-click to run the program. Upon running, you will be prompted to enter a duration in seconds. The program will then start the jiggling motion and display a timer window showing the remaining time.
+For the EXE version, no installation is required. Simply download the EXE file here: **https://mega.nz/file/DBglwaob#Cmebyo3O-kVWwo6vehNqVmTOOZEz8Bwyg-S_B3bJCE4** and double-click to run the program. Upon running, you will be prompted to enter a duration in seconds. The program will then start the jiggling motion and display a timer window showing the remaining time.
 
 ### Python (.py) Version
 
